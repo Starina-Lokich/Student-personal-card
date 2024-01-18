@@ -6,8 +6,7 @@
 - [Основы языка программирования Python](<certificate (1).pdf>)  
 
 ### Контактные данные  
-Тел: 8-918-239-****  
-Email: starinalokic@gmail.com
-
+Тел: `8-918-239-****`  
+Email: `starinalokic@gmail.com`
 
 
